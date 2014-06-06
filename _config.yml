@@ -7,4 +7,4 @@ url: "http://patrickhammond.com"
 username: "patrickhammond"
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
